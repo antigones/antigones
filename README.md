@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, Antigones here 👋
+
+Current Interests:
+- 🧩 Math models
+- ⚗️ Mixing notions from different fields together
+- 🔌 Microcontrollers
 
 <!--
 **antigones/antigones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
