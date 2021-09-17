@@ -2,6 +2,7 @@
 
 Current Interests:
 - 🧩 Math models
+- 🌐 Graphs
 - ⚗️ Mixing notions from different fields together
 - 🔌 Microcontrollers
 
