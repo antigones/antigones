@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header)
-
 ### Hi there, Antigones here 👋
 
 Current Interests:
