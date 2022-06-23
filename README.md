@@ -5,7 +5,7 @@ Current Interests:
 - 🌐 Graphs
 - 🔌 Microcontrollers
 - 🕹️ Retroprogramming
-- ⚗️ Mixing notions from different fields together
+- ⚗️ Mixing notions from different fields
 <!--
 **antigones/antigones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
