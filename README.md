@@ -22,7 +22,7 @@ I explore **unconventional computing** and **algorithms** mixing **math models**
 
 ## 🧰 Tech Stack & Tools
 - 🐍 Python / Qiskit / MicroPython
-- ⚡  Arduino /ESP32 / BLE
+- ⚡  Arduino / ESP32 / BLE
   
 
 ## 📹 Science Communication
