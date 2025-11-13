@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Antigones
+# 👋 Hi, Antigones here!
 
 🎓 Developer, curious researcher and (wannabe) science communicator.
 I explore **unconventional computing** and **algorithms** mixing **math models**, **graph theory**, **microcontrollers** and a bit of **retrocomputing** to build bridges between disciplines that aren’t supposed to meet.
