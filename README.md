@@ -14,10 +14,10 @@ I explore **unconventional computing** and **algorithms** mixing **math models**
 
 
 ## 🧪 Featured Projects
-- **Mazes** – generating mazes with algorithms, formal grammars and ML (GANs/PixelCNN++).
+- **Mazes** – generating mazes with (genetic) algorithms, formal grammars and ML (GANs/PixelCNN++).
 - **Emoji worlds** - using Wave Function Collapse algorithm and Grover oracles to generate emoji worlds.
-- **Physarum Polycefalum Simulation** – Collective exploration algorithm inspired by slime mold behavior.
-- **Solving river crossing puzzles with RL** – Using Reinforcement Learning to solve river crossing puzzles.
+- **Physarum Polycefalum Simulation** – collective exploration algorithm inspired by slime mold behavior.
+- **Solving river crossing puzzles with RL** – using Reinforcement Learning to solve river crossing puzzles.
 
 
 ## 🧰 Tech Stack & Tools
