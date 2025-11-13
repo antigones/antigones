@@ -8,7 +8,7 @@ I explore **unconventional computing** and **algorithms** mixing **math models**
 - 🧠 **Emergent Computation** — simulations inspired by natural systems like L-Systems, *Physarum polycephalum* or cellular automata.
 - 🧮 **Algorithms & Structures** — from maze generation to Tower of Hanoi, N-Queens and emoji worlds production (sometimes with a quantum twist).
 - 🧩 **Quantum Computing** — experiments with *Qiskit*, custom Grover oracles and generative art.
-- 🔌 Arduino & ESP32 projects.
+- 🔌 **Microcontrollers** — Arduino & ESP32 projects.
 - 💾 **Retro Computing** — vintage software exploration.
 - 📚 **Education & Science Communication** — creating content to make complex concepts accessible.
 
